@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://johnnydeez.github.io/sitemap.xml 
