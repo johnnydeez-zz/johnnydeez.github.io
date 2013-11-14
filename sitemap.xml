@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://johnnydeez.github.io/blog/2013/11/13/5-ways-to-drastically-reduce-your-risk-of-crashing/
+        </loc>
+        <lastmod>2013-11-13T19:46:49-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://johnnydeez.github.io/blog/archives/</loc>
-        <lastmod>2013-11-12T18:01:27-05:00</lastmod>
+        <lastmod>2013-11-13T19:46:49-05:00</lastmod>
     </url>
     <url>
         <loc>http://johnnydeez.github.io/</loc>
-        <lastmod>2013-11-12T18:01:27-05:00</lastmod>
+        <lastmod>2013-11-13T19:46:49-05:00</lastmod>
     </url>
     <url>
         <loc>http://johnnydeez.github.io/robots.txt</loc>
-        <lastmod>2013-11-12T18:01:27-05:00</lastmod>
+        <lastmod>2013-11-13T19:11:25-05:00</lastmod>
     </url>
 </urlset>

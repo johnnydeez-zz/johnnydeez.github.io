@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Moto Plugg]]></title>
-  <link href="http://johnnydeez.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Riding | Moto Plugg]]></title>
+  <link href="http://johnnydeez.github.io/blog/categories/riding/atom.xml" rel="self"/>
   <link href="http://johnnydeez.github.io/"/>
   <updated>2013-11-13T23:16:01-05:00</updated>
   <id>http://johnnydeez.github.io/</id>
