@@ -3,7 +3,7 @@ layout: post
 title: "What Are Your Chances of Dying on a Motorcycle?"
 date: 2013-11-20 19:13
 comments: true
-categories: 
+categories: [Danger, Riding, Motorcycle Accidents, Safety, Motorcycle Safety, Statistics]
 ---
 
 <p>Something I’ve often said to myself while getting on the back of my bike is, “I wonder how dangerous this really is”.</p>  

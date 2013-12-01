@@ -3,7 +3,7 @@ layout: post
 title: "Motorcycle Helmet Impact Zones"
 date: 2013-12-01 14:13
 comments: true
-categories: 
+categories: [Danger, Riding, Motorcycle Accidents, Safety, Motorcycle Safety, Statistics, Motorcycle Helmet Safety]
 ---
 
 <p>I came across <a href="http://dontai.com/wp/2010/05/20/motorcycle-helmet-impact-zones">this diagram</a> on the internet a few weeks ago. While it peaked my interest, I thought it might be worthwhile to update and improve the presentation a bit (with some number rounding).</p>
