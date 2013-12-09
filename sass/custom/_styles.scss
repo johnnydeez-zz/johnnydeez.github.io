@@ -183,3 +183,68 @@ figure.code {
 aside {
 	display: none;
 }
+
+
+/*----------------------------------------------------
+                    My Additions                 
+----------------------------------------------------*/
+
+.subscribe-area {
+	margin-top: 7%;
+	/*border: 1px solid blue;*/
+}
+
+.subscribe-clear {
+	clear: both;
+}
+
+form#mc-embedded-subscribe-form {
+	/*border: 1px solid green;*/
+	float: none;
+	width: 100%;
+	padding: 0 0;
+	margin: auto auto;
+}
+
+input#mc-embedded-subscribe {
+	margin: 1em 0;
+	padding: .25em .5em;
+	background-color: #8C8C8C;
+	border: none;
+	color: $white;
+	border-radius: 7px;
+}
+
+#mc_embed_signup {
+	/*width: 25%;*/
+}
+
+
+
+p#subscribe-description {
+	/*border: 1px solid red;*/
+	/*width: 60%;*/
+	font-size: .85em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
